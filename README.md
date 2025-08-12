@@ -27,5 +27,11 @@ Bu depo, [LeetCode](https://leetcode.com/) üzerindeki çeşitli problemlere ken
 
 <br>
 
+## 📅 Son Güncelleme
+**12 Ağustos 2025**
+
+
+<br>
+
 ## İletişim
 - LinkedIn: [Baran Kanat](https://www.linkedin.com/in/baran-kanat)
