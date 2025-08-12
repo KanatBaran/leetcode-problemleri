@@ -1,6 +1,7 @@
-# LeetCode Çözümleri
+# 📚 LeetCode Çözümleri
 
-Bu depo, [LeetCode](https://leetcode.com/) üzerindeki çeşitli problemlere kendi çözümlerimi içermektedir. Çözümler zorluk seviyelerine göre klasörlerde düzenlenmiştir.
+Bu depo, [LeetCode](https://leetcode.com/) üzerindeki çeşitli problemlere kendi çözümlerimi içermektedir. Tüm çözümler **Python** veya **C** ile yazılmıştır ve zorluk seviyelerine göre klasörlerde düzenlenmiştir. Amaç, algoritma ve veri yapıları konusundaki becerilerimi geliştirmek ve ilerleyen süreçte daha zor problemlere geçiş yapmaktır.
+
 
 <br>
 
@@ -17,6 +18,12 @@ Bu depo, [LeetCode](https://leetcode.com/) üzerindeki çeşitli problemlere ken
 | # | Problem | Çözüm | Zorluk |
 |---|---------|-------|--------|
 | 1 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | [Python](Medium/reordered-power-of-2.py) | Orta |
+
+<br>
+
+## 📌 Notlar
+- Tüm çözümler LeetCode üzerinde test edilip doğrulanmıştır.
+- Depo düzenli olarak güncellenecektir.
 
 <br>
 
