@@ -8,16 +8,17 @@ Bu depo, [LeetCode](https://leetcode.com/) üzerindeki çeşitli problemlere ken
 ## Problem Listesi
 
 ### Kolay
-| # | Problem | Çözüm | Zorluk |
-|---|---------|-------|--------|
-| 1 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](Easy/roman-to-integer.py) | Kolay |
-| 2 | [Two Sum](https://leetcode.com/problems/power-of-two/) | [Python](Easy/PowerofTwo.py) | Kolay |
-| 3 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [C](Easy/LinkedListCycle.c) | Kolay |
+| # | Problem | Çözüm | Zorluk | İpucu |
+|---|---------|-------|--------|-------|
+| 1 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](Easy/roman-to-integer.py) | Kolay | |
+| 2 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Python](Easy/PowerofTwo.py) | Kolay | Bitwise Operation |
+| 3 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [C](Easy/LinkedListCycle.c) | Kolay | Robert W. Floyd |
+| 4 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](Easy/valid-parentheses.py) | Kolay | Stack |
 
 ### Orta
-| # | Problem | Çözüm | Zorluk |
-|---|---------|-------|--------|
-| 1 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | [Python](Medium/reordered-power-of-2.py) | Orta |
+| # | Problem | Çözüm | Zorluk | İpucu |
+|---|---------|-------|--------|-------|
+| 1 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | [Python](Medium/reordered-power-of-2.py) | Orta | | 
 
 <br>
 
