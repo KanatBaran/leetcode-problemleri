@@ -8,7 +8,7 @@ Bu depo, [LeetCode](https://leetcode.com/) üzerindeki çeşitli problemlere ken
 ## Problem Listesi
 
 ### Kolay
-| # | Problem | Çözüm | Zorluk | İpucu |
+| # | Problem | Dil | Zorluk | İpucu |
 |---|---------|-------|--------|-------|
 | 1 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](Easy/roman-to-integer.py) | Kolay | |
 | 2 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Python](Easy/PowerofTwo.py) | Kolay | Bitwise Operation |
