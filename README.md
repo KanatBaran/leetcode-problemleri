@@ -13,7 +13,7 @@ Bu depo, [LeetCode](https://leetcode.com/) üzerindeki çeşitli problemlere ken
 | 1 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python ile](Easy/roman-to-integer.py) | Kolay | |
 | 2 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Python ile](Easy/PowerofTwo.py) | Kolay | Bitwise Operation |
 | 3 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [C ile](Easy/LinkedListCycle.c) | Kolay | Robert W. Floyd |
-| 4 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python ile](Easy/valid-parentheses.py) | Kolay | Stack |
+| 4 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string) | [Python ile](Easy/largest-3-same-digit-number-in-string.py) | Kolay | len(num) - 2 |
 
 ### Orta
 | # | Problem | Çözüm | Zorluk | İpucu |
