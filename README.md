@@ -14,6 +14,7 @@ Bu depo, [LeetCode](https://leetcode.com/) üzerindeki çeşitli problemlere ken
 | 2 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Python ile](Easy/PowerofTwo.py) | Kolay | Bitwise Operation |
 | 3 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [C ile](Easy/LinkedListCycle.c) | Kolay | Robert W. Floyd |
 | 4 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string) | [Python ile](Easy/largest-3-same-digit-number-in-string.py) | Kolay | len(num) - 2 |
+| 5 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Python ile](Easy/power-of-four.py) | Kolay | (% 2 != 0) |
 
 ### Orta
 | # | Problem | Çözüm | Zorluk | İpucu |
@@ -29,7 +30,7 @@ Bu depo, [LeetCode](https://leetcode.com/) üzerindeki çeşitli problemlere ken
 <br>
 
 ## 📅 Son Güncelleme
-**14 Ağustos 2025**
+**15 Ağustos 2025**
 
 
 <br>
