@@ -21,6 +21,7 @@ Bu depo, [LeetCode](https://leetcode.com/) üzerindeki çeşitli problemlere ken
 | # | Problem | Çözüm | Zorluk | İpucu |
 |---|---------|-------|--------|-------|
 | 1 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | [Python ile](Medium/reordered-power-of-2.py) | Orta | | 
+| 2 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [Python ile](Medium/rotate-image.py) | Orta | |
 
 <br>
 
